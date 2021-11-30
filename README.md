@@ -20,3 +20,5 @@ rosdep install --from-paths ./src --ignore-packages-from-source --rosdistro noet
 ./src/catkin/bin/catkin_make_isolated --install -DCMAKE_BUILD_TYPE=Release
 
 </pre>
+
+. ~/ros_noetic/install_isolated/setup.bash
